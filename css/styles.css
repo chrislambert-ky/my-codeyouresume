@@ -48,7 +48,7 @@ h2 {
     border-radius: 8px;
     padding: 16px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.03);
-    margin-bottom: 0; /* Remove margin so grid gap is used */
+    margin-bottom: 0;
     transition: background 0.2s;
 }
 
