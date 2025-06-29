@@ -1,4 +1,4 @@
-// Personal disclaimer: github copilot autocomplete was used to help write this code.
+// Personal disclaimer: VS Code github copilot autocomplete was used to help write this code.
 
 // This contains all javascript for pulling data from the github API and displaying it similar to index.html 
 // username is 'chrislambert-ky'
